@@ -1,0 +1,6 @@
+E:\Private\Projects\State\bin\Debug\State.exe.config
+E:\Private\Projects\State\bin\Debug\State.exe
+E:\Private\Projects\State\bin\Debug\State.pdb
+E:\Private\Projects\State\obj\Debug\State.csprojAssemblyReference.cache
+E:\Private\Projects\State\obj\Debug\State.exe
+E:\Private\Projects\State\obj\Debug\State.pdb
